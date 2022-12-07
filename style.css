@@ -1,0 +1,18 @@
+body {
+	font-family: monospace;
+	font-size: 25px;
+	font-weight: bolder; 
+	color: darkblue;
+	background-color: plum;
+ }
+ 
+ .d {
+	font-family: monospace;
+	font-size: 20px;
+	color: darkblue;
+	background-color: transparent;
+	font-weight: bolder;
+	height: 50px;
+	width: 350px;
+ }
+ 
